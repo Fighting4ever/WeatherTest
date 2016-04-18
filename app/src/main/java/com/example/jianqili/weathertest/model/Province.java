@@ -1,7 +1,7 @@
 package com.example.jianqili.weathertest.model;
 
 /**
- * Created by jianqi.li on 2016/4/18.
+ * Created by Fighting4Ever on 2016/4/18.
  */
 public class Province {
     private int id;

@@ -13,7 +13,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by jianqi.li on 2016/4/18.
+ * Created by Fighting4ever on 2016/4/18.
  */
 public class CoolWeatherDB {
     public static final String DB_NAME = "cool_weather";

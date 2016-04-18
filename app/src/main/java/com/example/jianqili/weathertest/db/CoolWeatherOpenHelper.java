@@ -5,7 +5,7 @@ import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
 /**
- * Created by jianqi.li on 2016/4/18.
+ * Created by Fighting4Ever on 2016/4/18.
  */
 public class CoolWeatherOpenHelper extends SQLiteOpenHelper {
     private static final String CREATE_PROVINCE = "create table Province ("
