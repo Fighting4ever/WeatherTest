@@ -1,4 +1,4 @@
-package com.example.jianqili.weathertest.model;
+package com.example.Fighting4ever.weathertest.model;
 
 /**
  * Created by Fighting4Ever on 2016/4/18.

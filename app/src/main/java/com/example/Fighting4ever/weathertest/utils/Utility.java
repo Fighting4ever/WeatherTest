@@ -1,12 +1,12 @@
-package com.example.jianqili.weathertest.utils;
+package com.example.Fighting4ever.weathertest.utils;
 
 import android.text.TextUtils;
 import android.util.Log;
 
-import com.example.jianqili.weathertest.db.CoolWeatherDB;
-import com.example.jianqili.weathertest.model.City;
-import com.example.jianqili.weathertest.model.County;
-import com.example.jianqili.weathertest.model.Province;
+import com.example.Fighting4ever.weathertest.db.CoolWeatherDB;
+import com.example.Fighting4ever.weathertest.model.City;
+import com.example.Fighting4ever.weathertest.model.County;
+import com.example.Fighting4ever.weathertest.model.Province;
 
 /**
  * Created by Fighting4Ever on 2016/4/18.

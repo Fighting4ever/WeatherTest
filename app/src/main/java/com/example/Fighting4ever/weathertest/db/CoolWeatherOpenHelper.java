@@ -1,4 +1,4 @@
-package com.example.jianqili.weathertest.db;
+package com.example.Fighting4ever.weathertest.db;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;

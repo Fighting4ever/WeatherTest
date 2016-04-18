@@ -1,4 +1,4 @@
-package com.example.jianqili.weathertest.activity;
+package com.example.Fighting4ever.weathertest.activity;
 
 import android.app.Activity;
 import android.app.ProgressDialog;
@@ -12,14 +12,14 @@ import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.jianqili.weathertest.R;
-import com.example.jianqili.weathertest.db.CoolWeatherDB;
-import com.example.jianqili.weathertest.model.City;
-import com.example.jianqili.weathertest.model.County;
-import com.example.jianqili.weathertest.model.Province;
-import com.example.jianqili.weathertest.utils.HttpCallbackListener;
-import com.example.jianqili.weathertest.utils.HttpUtil;
-import com.example.jianqili.weathertest.utils.Utility;
+import com.example.Fighting4ever.weathertest.R;
+import com.example.Fighting4ever.weathertest.db.CoolWeatherDB;
+import com.example.Fighting4ever.weathertest.model.City;
+import com.example.Fighting4ever.weathertest.model.County;
+import com.example.Fighting4ever.weathertest.model.Province;
+import com.example.Fighting4ever.weathertest.utils.HttpCallbackListener;
+import com.example.Fighting4ever.weathertest.utils.HttpUtil;
+import com.example.Fighting4ever.weathertest.utils.Utility;
 
 import java.util.ArrayList;
 import java.util.List;

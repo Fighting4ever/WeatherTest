@@ -1,4 +1,4 @@
-package com.example.jianqili.weathertest;
+package com.example.Fighting4ever.weathertest;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

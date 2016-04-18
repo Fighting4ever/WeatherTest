@@ -1,13 +1,13 @@
-package com.example.jianqili.weathertest.db;
+package com.example.Fighting4ever.weathertest.db;
 
 import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 
-import com.example.jianqili.weathertest.model.City;
-import com.example.jianqili.weathertest.model.County;
-import com.example.jianqili.weathertest.model.Province;
+import com.example.Fighting4ever.weathertest.model.City;
+import com.example.Fighting4ever.weathertest.model.County;
+import com.example.Fighting4ever.weathertest.model.Province;
 
 import java.util.ArrayList;
 import java.util.List;
